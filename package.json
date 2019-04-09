@@ -1,0 +1,18 @@
+{
+  "name": "issue-2053",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "24.7.1"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
